@@ -6,4 +6,4 @@ layout: page
 
 ![Welcome!](./img/bookhat.png)
 
-+ [Intelligence software engineering](ise/)
++ [Intelligent software engineering](ise/)
