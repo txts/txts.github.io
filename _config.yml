@@ -3,3 +3,4 @@ tagline:          'When too many ideas just are not enough'
 description:      'Some crowdsourced textbooks'
 url:              http://txts.github.io
 markdown: redcarpet
+pygments: true
