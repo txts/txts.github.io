@@ -143,6 +143,8 @@ img {
 	clear:both;
 	float:left;
 	width:100%;
+	text-align:center;
+	text-color: #CCC;
 	border-top:1px solid #000;
 }
 #footer p {
