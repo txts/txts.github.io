@@ -36,6 +36,7 @@ img {
 
 /* Header styles */
 #header {
+        height: 300px;
 	clear:both;
 	float:left;
 	width:100%;
