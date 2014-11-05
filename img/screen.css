@@ -95,6 +95,7 @@ img {
 }
 /* 'widths' sub menu */
 #layoutdims {
+        color: black;
 	clear:both;
 	background:#eee;
 	border-top:4px solid #000;
