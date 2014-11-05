@@ -36,7 +36,6 @@ img {
 
 /* Header styles */
 #header {
-        height: 300px;
 	clear:both;
 	float:left;
 	width:100%;
@@ -47,9 +46,13 @@ img {
 #header p,
 #header h1,
 #header h2 {
-	padding:.4em 15px 0 15px;
+	color: white;
+        padding:.4em 15px 0 15px;
 	margin:0;
 }
+#header h1 {padding-top: 50px;}
+#header h2 {padding-bottom: 50px;}
+
 #header ul {
 	clear:left;
 	float:left;
