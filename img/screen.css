@@ -39,7 +39,7 @@ img {
 	clear:both;
 	float:left;
 	width:100%;
-	background-image: url(http://upload.wikimedia.org/wikipedia/commons/9/94/Abstract_blue_background7.jpg) norepeat;
+	background: url(http://upload.wikimedia.org/wikipedia/commons/9/94/Abstract_blue_background7.jpg) norepeat;
 }
 #header {
 	border-bottom:1px solid #000;
