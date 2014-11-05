@@ -43,13 +43,18 @@ img {
 #header {
 	border-bottom:1px solid #000;
 }
-#header p,
 #header h1,
 #header h2 {
 	color: white;
         padding:.4em 15px 0 15px;
 	margin:0;
 }
+
+#header p {
+        padding:.4em 15px 0 15px;
+	margin:0;
+}
+
 #header h1 {padding-top: 50px;}
 #header h2 {padding-bottom: 50px;}
 
@@ -95,7 +100,6 @@ img {
 }
 /* 'widths' sub menu */
 #layoutdims {
-        color: black;
 	clear:both;
 	background:#eee;
 	border-top:4px solid #000;
