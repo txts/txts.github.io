@@ -17,6 +17,9 @@ we would have to recant the answer.
 
 E 
 
+## Abstraction Matters
+
+
 ## Just Do It
 
 The perfect is the enemy of the good
