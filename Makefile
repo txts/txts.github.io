@@ -1,8 +1,7 @@
-# timm's shortcut tricks cause he is too old to remember all the git details
 
 typo:
 	- git status
-	- git commit -am typo
+	- git commit -am "typo"
 	- git push origin master
 
 commit:
@@ -15,4 +14,3 @@ update:
 
 status:
 	- git status
-
