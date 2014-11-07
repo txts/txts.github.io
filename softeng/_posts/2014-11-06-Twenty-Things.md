@@ -100,6 +100,8 @@ That said, don't be clever before you get experience with "it" since YAGNI: "You
 + So share and enjoy. It works. e.g. The open source community. Something as complicated as an operating system built by people who have never meet.
 + Also, in terms of maintaining a project, the more people that undestand it, the easier that maintenace. So not only do groups shine brighter, they shine longer.
 
+![beams](http://ak7.picdn.net/shutterstock/videos/2053478/preview/stock-footage-looping-animation-with-three-spotlights-sweeping-the-floor-on-a-black-background.jpg)
+
 ## Random isn't Crazy
 
 Success of stochastic algorithms
