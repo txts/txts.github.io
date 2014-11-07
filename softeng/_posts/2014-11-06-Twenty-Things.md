@@ -17,6 +17,10 @@ we would have to recant the answer.
 
 E 
 
+## It all Depends
+
+Locality Matters. What is true for you ain't true for me. Best policies are tuned to local conditions.
+
 ## Abstraction Matters
 
 Liskow. Invted "abstraction"
