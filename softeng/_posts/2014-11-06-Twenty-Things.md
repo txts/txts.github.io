@@ -66,8 +66,9 @@ Search
 
 Donald Norman: design of very day things
 
-+ Never get the design right first time. Oftens  5-10 interations (or more) Using the hammer changes the hammer
-
++ Never get the design right first time. Oftens  5-10 interations (or more) Using the hammer changes the hammer. 
++ Don't try to fight it,  accept. The lesson of the 20th century is that rationality is an experimental science (Godel's incompleteness theorem, Turing's work on the halting problem) where the only way we can understand how thigns work is to give it a shake and see what happens. 
++ Aside: 'give it a shake" is not a recipe for sloppy development practices. One way to characterize 21st century software practices is "how to strcuture 'give it a shake' and still deliver useful products in a timely manner".
 + So, version _i_ will need to be changed to _i+1_. A common perception of maintenance is that it merely involves fixing defects. However, one study indicated that the majority, over 80%, of the maintenance effort is used for non-corrective actions.  This perception is perpetuated by users submitting problem reports that in reality are functionality enhancements to the system. More recent studies put the bug-fixing proportion closer to 21%. http://en.wikipedia.org/wiki/Software_maintenance#cite_ref-2
 
 Olde worlde: Spiral Model
@@ -97,10 +98,13 @@ That said, don't be clever before you get experience with "it" since YAGNI: "You
 ## The group is brigther than you
 
 + We are all biased. In a group, everyone's bias is a fresh persepective, a  ray of light pointing in a different direction. Taken together, we can see more, do more, than any one indivdual.
+
+![beams](http://ak7.picdn.net/shutterstock/videos/2053478/preview/stock-footage-looping-animation-with-three-spotlights-sweeping-the-floor-on-a-black-background.jpg)
+
+
 + So share and enjoy. It works. e.g. The open source community. Something as complicated as an operating system built by people who have never meet.
 + Also, in terms of maintaining a project, the more people that undestand it, the easier that maintenace. So not only do groups shine brighter, they shine longer.
 
-![beams](http://ak7.picdn.net/shutterstock/videos/2053478/preview/stock-footage-looping-animation-with-three-spotlights-sweeping-the-floor-on-a-black-background.jpg)
 
 ## Random isn't Crazy
 
