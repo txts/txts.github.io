@@ -86,3 +86,7 @@ That said, don't be clever before you get experience with "it" since YAGNI: "You
 + We are all biased. In a group, everyone's bias is a fresh persepective, a  ray of light pointing in a different direction. Taken together, we can see more, do more, than any one indivdual.
 + So share and enjoy. It works. e.g. The open source community. Something as complicated as an operating system built by people who have never meet.
 + Also, in terms of maintaining a project, the more people that undestand it, the easier that maintenace. So not only do groups shine brighter, they shine longer.
+
+## Random isn't Crazy
+
+Success of stochastic algorithms
