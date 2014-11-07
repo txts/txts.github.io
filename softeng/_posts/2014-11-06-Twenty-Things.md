@@ -21,6 +21,11 @@ E
 
 Locality Matters. What is true for you ain't true for me. Best policies are tuned to local conditions.
 
+counter view: need global polciies to allow for large scale integration, lower training costs, easier future integration
+
+Counter-counter view: maybe so. but to always assume that "one size fits all" means that we'll be feeding our horses on gasoline and teaching our fish to use bicycles.
+
+
 ## Abstraction Matters
 
 Liskow. Invted "abstraction"
