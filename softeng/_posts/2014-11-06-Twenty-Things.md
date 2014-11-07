@@ -25,6 +25,8 @@ counter view: need global polciies to allow for large scale integration, lower t
 
 Counter-counter view: maybe so. but to always assume that "one size fits all" means that we'll be feeding our horses on gasoline and teaching our fish to use bicycles.
 
+![fish](http://media-cache-ec0.pinimg.com/736x/ec/e0/26/ece0269f3c7845d03182024aecf36cd7.jpg)
+
 
 ## Abstraction Matters
 
