@@ -19,7 +19,7 @@ E
 
 ## It all Depends
 
-Locality Matters. What is true for you ain't true for me. Best policies are tuned to local conditions.
+Locality Matters. [What's](refs.md#bbb) is true for you ain't true for me. Best policies are tuned to local conditions.
 
 counter view: need global polciies to allow for large scale integration, lower training costs, easier future integration
 
