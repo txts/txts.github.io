@@ -32,6 +32,8 @@ Counter-counter view: maybe so. but to always assume that "one size fits all" me
 
 Liskow. Invted "abstraction"
 
+Can you invent new and unseful abstractions? If I showed you a hundred oranges and a thousand bicyle wheels, would you ever infer _circle_? 
+
 
 ## Just Do It
 
