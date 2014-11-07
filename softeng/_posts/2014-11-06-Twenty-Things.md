@@ -11,15 +11,18 @@ refutable; i.e. that there is some evidence for each answer
 and that if you proved the evidence wrong, then
 we would have to recant the answer.
 
-Apes Use Langauge to Mark Territory
+## Apes Use Langauge to Mark Territory
 
-Whorf was Wrong
+## Whorf was Wrong
 
 E 
+
+## Just Do It
 
 The perfect is the enemy of the good
 
 + Worse is better.  http://www.jwz.org/doc/worse-is-better.html.  Consistency can be sacrificed for simplicity in some cases, but it is better to drop those parts of the design that deal with less common circumstances than to introduce either implementational complexity or inconsistency.  Completeness can be sacrificed in favor of any other quality. In fact, completeness must sacrificed whenever implementation simplicity is jeopardized. Evidence: the success of UNIX.
+
 
 ## Boehn and economics
 
