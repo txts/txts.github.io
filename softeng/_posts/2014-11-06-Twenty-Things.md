@@ -16,3 +16,15 @@ Apes Use Langauge to Mark Territory
 Whorf was Wrong
 
 E 
+
+## sources
+
+Boehn and economics
+
++ People matter.
+ 
+Brookes
+
++ rule 1: add ing prople to a late project makes it later
++ rule2: its (mostly) about the test
+Simon and search
