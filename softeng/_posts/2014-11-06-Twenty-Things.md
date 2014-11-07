@@ -19,6 +19,8 @@ E
 
 ## Abstraction Matters
 
+Liskow. Invted "abstraction"
+
 
 ## Just Do It
 
