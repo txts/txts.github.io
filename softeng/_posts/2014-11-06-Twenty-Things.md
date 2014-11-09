@@ -13,6 +13,8 @@ we would have to recant the answer.
 
 ## Apes Use Langauge to Mark Territory
 
+We keep inventing new computer langauges... sometimes because the new improves on the old, but sometimes its due to other urgers.
+
 ## Whorf was Wrong
 
 E 
@@ -70,6 +72,7 @@ Donald Norman: design of very day things
 + Don't try to fight it,  accept. The lesson of the 20th century is that rationality is an experimental science (Godel's incompleteness theorem, Turing's work on the halting problem) where the only way we can understand how thigns work is to give it a shake and see what happens. 
 + Aside: 'give it a shake" is not a recipe for sloppy development practices. One way to characterize 21st century software practices is "how to strcuture 'give it a shake' and still deliver useful products in a timely manner".
 + So, version _i_ will need to be changed to _i+1_. A common perception of maintenance is that it merely involves fixing defects. However, one study indicated that the majority, over 80%, of the maintenance effort is used for non-corrective actions.  This perception is perpetuated by users submitting problem reports that in reality are functionality enhancements to the system. More recent studies put the bug-fixing proportion closer to 21%. http://en.wikipedia.org/wiki/Software_maintenance#cite_ref-2
++ So while formally proving something correct is useful (especially for highly mission critical systems), such proofs are only about the 20% of the ways we thought the system *used* to work and not the 80% of ways we think that the softwarwe *should* work in the future.
 
 Olde worlde: Spiral Model
 
