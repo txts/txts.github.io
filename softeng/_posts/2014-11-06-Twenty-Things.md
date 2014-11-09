@@ -2,6 +2,7 @@
 title: 20 things
 author: Tim Menzies
 excerpt: What was true will ever more be
+layout: page
 ---
 
 ## What is Software Engineering?
