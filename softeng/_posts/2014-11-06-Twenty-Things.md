@@ -95,7 +95,7 @@ Can you invent new and unseful abstractions? If I showed you a hundred oranges a
 
 At least, in the USA
 
-![innovate](img/softwareIndustry.png)
+![innovate]({{site.url}}/img/softwareIndustry.png)
 
 
 ## Just Do It
