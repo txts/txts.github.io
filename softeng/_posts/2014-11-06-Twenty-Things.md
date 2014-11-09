@@ -6,7 +6,8 @@ excerpt: What was true will ever more be
 
 ## What is Software Engineering?
 
-Building and maintaining  of software meeting acceptable levels of quality, given limited resources.
+Designing and 
+building and maintaining of software that meets acceptable levels of quality, given limited resources.
 
 + Note the phrase _maintain_. That is important. We will get back to that.
 
@@ -14,23 +15,20 @@ Building and maintaining  of software meeting acceptable levels of quality, give
 
 Software is how the apes organize their world. 
 
-
-
-Software is not about computing anymore that astronmy is not all about telescopes. Sure, we need to know
-how to build the telescope and clean the lens. Buts it when we use those tools and apply them to
++ Software is not about computing anymore that astronmy is not all about telescopes. 
++ Sure, an astronomer  needs  to know
+how to build the telescope and clean the lens. 
++ But it s when we use those tools and apply them to
 things out there in the real world that the magic happens.
 
 Software is  
- really about humanity, 
+really about humanity, about, 
 helping people by using computer technology 
-Software engineers do everything
-
-
 
 Software is everywhere, software does everything
 
 + Software runs (and [sometimes crashes](http://en.wikipedia.org/wiki/2010_Flash_Crash)) the sotck market
-+ Controls the traffic, immigration systems, even tje beating of your heart (if you have a pacemaker).
++ Controls the traffic, immigration systems, even the beating of your heart (if you have a pacemaker).
 + _It takes dozens of microprocessors running 100 million lines of code to get a premium car out of the driveway, and this software is only going to get more complex_ [Robert Charette](http://spectrum.ieee.org/transportation/systems/this-car-runs-on-code_
 + That's probably 100s MLOC of assember, some of which is auto-generated. But those were 2009 numbers. And even allowing for  a factor of 20 to 200, that still means there is a lot of code in your car.
 
@@ -40,7 +38,7 @@ There is are now huge opportunities for software engieners to:
 + Take all that code, and finding new patterns and ideas
 + Maintaining all that code, possibly written in a less-than-ideal way.
 
-lately, we've realized the dependancy of software in all branches of science including:
+Lately, we've realized the dependancy of software in all branches of science including:
 
 + Computational molecular biology and bioinformatics
 + Computational neuroscience and neuro-informatics
@@ -69,8 +67,10 @@ And in research
 + 1950s, Princeton Researech for Advanced Studies, massive softwre simulations to study everything from (vert slow) stellar evolution to (much faster) weather patterns to (pico second) atomic reactions.
 + The 2013 Nobel Prize in Chemistry was awarded to Martin Karplus, Michael Levitt and Arieh Warshel for using computer modeling to understand complex chemical processe
 
- 
-So software is about everything and software engieeneering is about software so...
+So software is about everything:
+
++ And  software engieeneering is about software;
++ So softwre engineering is about everything.
 
 ## Principles of Software Engineering 
 
@@ -87,11 +87,44 @@ and, ideally, every principle has some maths or empirical evidence behind it suc
 
 ## Apes Use Langauge to Mark Territory
 
+
+## Language Matters Less that Abstraction
+
 We keep inventing new computer langauges... sometimes because the new improves on the old, but sometimes its due to other urgers.
 
-## Language matters
+![poplang]({{site.url}}/img/poplang.jpg)
 
-Whorf may have Wrong
+An endless series of languages, without end. If you are going to be a programmer in ten years time,
+you had best learn how to learn new langauges, rather than bet on some language XYZ being something
+someone will want to use in the years to come.
+
+But there is some good news. There are some
+core principles that cross langauge boundaries (e.g.
+classes, 
+concurrency,
+configuration management,
+dependancy management,
+design,
+functions,
+iterators, 
+logic,
+memory allocation,
+objects,
+recursion,
+regular expressions,
+rules,
+streams,
+typing, 
+variables,
+version control,
+virtual machines,
+etc),
+some of which have piercingly clear and succinct descriptions:
+
++ e.g. see Peter Norvig's
+   implementation of the [core of LISP](http://www.paulgraham.com/rootsoflisp.html) in  
+   around [100 lines of wonderful Python](http://norvig.com/lispy.html).
+
 
 Liskov,
 Grace hopper
