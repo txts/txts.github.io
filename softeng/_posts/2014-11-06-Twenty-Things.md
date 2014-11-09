@@ -4,12 +4,67 @@ author: Tim Menzies
 excerpt: What was true will ever more be
 ---
 
+## What is Software Engineering?
+
+Building and maintaining  of software meeting acceptable levels of quality, given limited resources.
+
++ Note the phrase _maintain_. That is important. We will get back to that.
+
+## But What is Software?
+
+Software is how the apes organize their world. Software is everywhere, software does everything
+
++ Software runs (and [sometimes crashes](http://en.wikipedia.org/wiki/2010_Flash_Crash)) the sotck market
++ Controls the traffic, immigration systems, even tje beating of your heart (if you have a pacemaker).
++ _It takes dozens of microprocessors running 100 million lines of code to get a premium car out of the driveway, and this software is only going to get more complex_ [Robert Charette](http://spectrum.ieee.org/transportation/systems/this-car-runs-on-code_
++ That's probably 100s MLOC of assember, some of which is auto-generated. But those were 2009 numbers. And even allowing for  a factor of 20 to 200, that still means there is a lot of code in your car.
+
+Software engineers do everything
+
+lately, we've realized the dependancy of software in all branches of science including:
+
++ Computational molecular biology and bioinformatics
++ Computational neuroscience and neuro-informatics
++ Computational developmental biology
++ Cognitive science
++ Computational economics
++ Computational chemistry and chemo-informatics
++ Computational organization theory
++ Medical informatics
++ Agricultural informatics
++ Geo-informatics
+
+Software is used extensively in
+
++ Biological Sciences
++ Chemistry
++ Economics
++ Engineering
++ Philosophy
++ Physics
++ Psychology
++  Sociology
+ 
+And in research
+
++ 1950s, Princeton Researech for Advanced Studies, massive softwre simulations to study everything from (vert slow) stellar evolution to (much faster) weather patterns to (pico second) atomic reactions.
++ The 2013 Nobel Prize in Chemistry was awarded to Martin Karplus, Michael Levitt and Arieh Warshel for using computer modeling to understand complex chemical processe
+
+ 
+So software is about everything and software engieeneering is about software so...
+
+## Principles of Software Engineering 
+
 What is true about SE that is true _now_ and was true _20 years
 ago_ and may be true in _20 years time_? To make this an
 interesing question, let us demand that the answers are
 refutable; i.e. that there is some evidence for each answer
 and that if you proved the evidence wrong, then
 we would have to recant the answer.
+
+also, if we say it right, we shouldbe able to find _gaps_ in our current work that suggests future work.
+
+and, ideally, every principle has some maths or empirical evidence behind it such that if someone else wants to reason about the principle, they have somewhere to start.
 
 ## Apes Use Langauge to Mark Territory
 
@@ -35,6 +90,12 @@ Counter-counter view: maybe so. but to always assume that "one size fits all" me
 Liskow. Invted "abstraction"
 
 Can you invent new and unseful abstractions? If I showed you a hundred oranges and a thousand bicyle wheels, would you ever infer _circle_? 
+
+## Industrial-Driven Innovation
+
+At least, in the USA
+
+![innovate](img/softwareIndustry.png)
 
 
 ## Just Do It
