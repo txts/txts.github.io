@@ -91,9 +91,15 @@ and, ideally, every principle has some maths or empirical evidence behind it suc
 
 ## Language Matters Less that Abstraction
 
-We keep inventing new computer langauges... sometimes because the new improves on the old, but sometimes its due to other urgers.
+We keep inventing new computer langauges... sometimes because the new improves on the old, but sometimes its due to other urgers. E.g. in the following, a very old language called _Objective-C_ became very popular since
+Steve Jobs had personnel crush on it and so it was the language of choice for iPhone tools. As to the rest?
+All you can really say is:
 
-![poplang]({{site.url}}/img/poplang.jpg)
++ For the more popular languages, stuff that was popular before is usually less popular now;
++ For the less popular langauges, lot of signal in the noise.
+
+![poplang]({{site.url}}/img/poplang.png)
+
 
 An endless series of languages, without end. If you are going to be a programmer in ten years time,
 you had best learn how to learn new langauges, rather than bet on some language XYZ being something
