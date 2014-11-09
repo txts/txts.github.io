@@ -12,14 +12,33 @@ Building and maintaining  of software meeting acceptable levels of quality, give
 
 ## But What is Software?
 
-Software is how the apes organize their world. Software is everywhere, software does everything
+Software is how the apes organize their world. 
+
+
+
+Software is not about computing anymore that astronmy is not all about telescopes. Sure, we need to know
+how to build the telescope and clean the lens. Buts it when we use those tools and apply them to
+things out there in the real world that the magic happens.
+
+Software is  
+ really about humanity, 
+helping people by using computer technology 
+Software engineers do everything
+
+
+
+Software is everywhere, software does everything
 
 + Software runs (and [sometimes crashes](http://en.wikipedia.org/wiki/2010_Flash_Crash)) the sotck market
 + Controls the traffic, immigration systems, even tje beating of your heart (if you have a pacemaker).
 + _It takes dozens of microprocessors running 100 million lines of code to get a premium car out of the driveway, and this software is only going to get more complex_ [Robert Charette](http://spectrum.ieee.org/transportation/systems/this-car-runs-on-code_
 + That's probably 100s MLOC of assember, some of which is auto-generated. But those were 2009 numbers. And even allowing for  a factor of 20 to 200, that still means there is a lot of code in your car.
 
-Software engineers do everything
+Now [everyone wants to code](http://www.youtube.com/watch?v=nKIu9yen5nc) which is great for software engineers.
+There is are now huge opportunities for software engieners to:
+
++ Take all that code, and finding new patterns and ideas
++ Maintaining all that code, possibly written in a less-than-ideal way.
 
 lately, we've realized the dependancy of software in all branches of science including:
 
@@ -70,9 +89,13 @@ and, ideally, every principle has some maths or empirical evidence behind it suc
 
 We keep inventing new computer langauges... sometimes because the new improves on the old, but sometimes its due to other urgers.
 
-## Whorf was Wrong
+## Language matters
 
-E 
+Whorf may have Wrong
+
+Liskov,
+Grace hopper
+
 
 ## It all Depends
 
