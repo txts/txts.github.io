@@ -86,8 +86,40 @@ also, if we say it right, we shouldbe able to find _gaps_ in our current work th
 
 and, ideally, every principle has some maths or empirical evidence behind it such that if someone else wants to reason about the principle, they have somewhere to start.
 
-## Apes Use Langauge to Mark Territory
+it must be reflected by current concerns in the current literature. e.g. if one of these items
+does not have a large literature associated with it, then it is still too new, too formative,
+to be called a _general principle_.
 
+## Apes are Not So Good at Designing Things
+
+The chief cause of problems is people.
+
+Maurice Wilkes, Memoirs of a Computer Pioneer, MIT Press, 1985, p. 145.
+
++ By June 1949 people has begun to realize that it was not so easy to
+get programs right as at one time appeared. I well remember when this
+realization first came on me with full force.  The EDSAC was on the top
+floor of the building and the tape-punching and editing equipment one
+floor below. ... It was on one of my journeys between the EDSAC room
+and the punching equipment that "hesitating at the angles of stairs" the
+realization came over me with full force that a good part of the remainder
+of my life was going to be spent in finding errors in my own programs.
+
+Gorillas in the midst
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/vJG698U2Mvo" frameborder="0" allowfullscreen></iframe>
+
+Wikipedia: list of Human Cognitive Biases
+
+## Context matters
+
+We build for one things, and another thing comes along
+
+![elephant]({{site.url}}/url/elephantChair.png)
+
+Locality matters
+
+## Apes Use Langauge to Mark Territory
 
 ## Language Matters Less that Abstraction
 
