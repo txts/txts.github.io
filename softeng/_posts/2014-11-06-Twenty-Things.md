@@ -92,7 +92,7 @@ to be called a _general principle_.
 
 ## Apes are Not So Good at Designing Things
 
-![pot]({{site.url}}/img/potbackwards.gif)
+![pot]({{site.url}}/img/potBackwards.gif)
 
 ![stove]({{site.url}}/img/stove-burner-design.jpg)
 
