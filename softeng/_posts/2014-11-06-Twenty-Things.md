@@ -92,6 +92,10 @@ to be called a _general principle_.
 
 ## Apes are Not So Good at Designing Things
 
+![pot]({{site.url}}/img/potbackwards.gif)
+
+![stove]({{site.url}}/img/stove-burner-design.jpg)
+
 The chief cause of problems is people.
 
 Maurice Wilkes, Memoirs of a Computer Pioneer, MIT Press, 1985, p. 145.
@@ -115,7 +119,7 @@ Wikipedia: list of Human Cognitive Biases
 
 We build for one things, and another thing comes along
 
-![elephant]({{site.url}}/url/elephantChair.png)
+![elephant]({{site.url}}/img/elephantChair.png)
 
 Locality matters
 
