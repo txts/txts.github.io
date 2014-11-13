@@ -1,5 +1,5 @@
 ---
-title: 20 things
+title: 20 things I like about tou
 author: Tim Menzies
 excerpt: What was true will ever more be
 layout: default
