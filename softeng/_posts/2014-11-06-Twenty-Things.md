@@ -2,7 +2,7 @@
 title: 20 things
 author: Tim Menzies
 excerpt: What was true will ever more be
-layout: page
+layout: default
 ---
 
 ## What is Software Engineering?
