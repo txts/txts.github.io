@@ -14,6 +14,8 @@ building and maintaining of software that meets acceptable levels of quality, gi
 
 ## Todo
 
+[check sebok](http://www.computer.org/portal/web/swebok)
+
 define process: 
 
 + old school: cmm, is0900, waterfall, hump. scrum+sprint 
