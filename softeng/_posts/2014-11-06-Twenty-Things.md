@@ -16,6 +16,8 @@ building and maintaining of software that meets acceptable levels of quality, gi
 
 [check sebok](http://www.computer.org/portal/web/swebok)
 
+[ye olde view](http://slidewiki.org/deck/1317_software-engineering#tree-1424-slide-20813-1-view). subtext: its a thought-intensive get it right in the first place kind of exercise. no no no nono
+
 define process: 
 
 + old school: cmm, is0900, waterfall, hump. scrum+sprint 
