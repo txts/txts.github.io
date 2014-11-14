@@ -37,6 +37,7 @@ need to work on notation:
 + Note: flow is good for reporting an old system; not so good for designing a systems whose parts may change radically in the future (parnas, on the criteria)
 + textual forms: rules
 + larkin and siomon: picture (sometimes) worth 10000 words. Moody's physics of notations: [summary]({{site.url}}/img/Physics_Notations_Tutorial.pdf), [full article]({{site.url}}/img/09TSE-The-Physics-of-Notations.pdf). see figs23,26,36
++ should cover a widely used [diagramming notation](http://www.tutorialspoint.com/uml/index.htm)
 
 ## But What is Software?
 
