@@ -5,6 +5,14 @@ excerpt: What was true will ever more be
 layout: default
 ---
 
+## What is different here
+
+Much of the docu of SE in textbooks comes from BigProjects, typically Dod, large lumbering projects where the money (large amounts) goes in one end and some liner process is applied with deliverables that are well-timed, well-spaced, and that is done ahead of time.
+
+Curiosuly, even the DoD thinks that is a now a [brain dead idea](http://www.wifcon.com/dodauth10/dod10_804.htm). Pragmatically, they have divided their large projects into framework and foreground (my term, not theres). For example, a framework maybe an aircraft carrier (for the DoD) or Google's core search engine. Once this  framework is in place, then thousand smaller projects can be be work inthe foreground, all within the context of the backgroundframework. 
+
+In any case, what would an SE source look like such that the _first_ statement in that course was that "any working system will need to bec changed,   significantly, rapidly".
+
 ## What is Software Engineering?
 
 The process of designing and 
@@ -299,3 +307,7 @@ That said, don't be clever before you get experience with "it" since YAGNI: "You
 ## Random isn't Crazy
 
 Success of stochastic algorithms
+
+## Maintenance
+
+what is a language qritten to optimize maintenance? welcome to SQL
