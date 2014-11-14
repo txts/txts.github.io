@@ -7,10 +7,28 @@ layout: default
 
 ## What is Software Engineering?
 
-Designing and 
+The process of designing and 
 building and maintaining of software that meets acceptable levels of quality, given limited resources.
 
 + Note the phrase _maintain_. That is important. We will get back to that.
+
+## Todo
+
+define process: 
+
++ old school: cmm, is0900, waterfall, hump. scrum+sprint 
++ new school: tags in issue report systems
++ define bad process: Madachy risk model
+
+define quality:
+
++ release the ilities
++ exmples from soft goals
+
+need to work on notation:
+
++ harel, uml, soft-goals
++ textual forms: rules
 
 ## But What is Software?
 
