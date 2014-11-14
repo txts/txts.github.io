@@ -31,6 +31,7 @@ need to work on notation:
 
 + harel, uml, soft-goals. nite the missing thing in UML: more than one model. design options. also, what about opinions? disputes, helps,hurts,harm
 + the knowledge slave problem: if reasoning from a moedl, need the moedl. where does it come from?
++ [the early days of flow](http://ollygotel.com/downloads/flow-diagrams.pdf)
 + textual forms: rules
 
 ## But What is Software?
