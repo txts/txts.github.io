@@ -261,12 +261,13 @@ margin : 0 15px 0 5px;
   </div>
   <div id="content">
     <h1>{{page.title}}</h1>
-     <p style="color: #000">
+     <p style="color: #AAA">
 	 {% if page.excerpt %}          
-	       <em>{{page.excerpt}}</em>
+	       <em>"{{page.excerpt}}"<br></em>
          {% endif %}
          {% if page.author %}
                by {{page.author}}
+               <hr>
          {% endif %}
       </p>
   
