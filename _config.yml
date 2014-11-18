@@ -2,7 +2,7 @@ title:            Stuff2read
 tagline:          'When too many ideas just are not enough'
 description:      'Some crowdsourced textbooks'
 url:              http://txts.github.io
-mantrase: 'Software engineering'
+mantra.se: 'Software engineering'
 markdown: redcarpet
 pygments: true
 
