@@ -4,3 +4,4 @@ description:      'Some crowdsourced textbooks'
 url:              http://txts.github.io
 markdown: redcarpet
 pygments: true
+mantra.se : 'Software engineering'
