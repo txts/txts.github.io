@@ -15,6 +15,10 @@ white box, black box, formal
 
 bathtub, releiability. btw, software does wear out
 
+add to intro:
+
++ Boehm and Papaccio advise that reworking software is far cheaper earlier in the life cycle than later “by factors of 50 to 200” [39]
+
 ## What is different here
 
 Much of the docu of SE in textbooks comes from BigProjects, typically Dod, large lumbering projects where the money (large amounts) goes in one end and some liner process is applied with deliverables that are well-timed, well-spaced, and that is done ahead of time.
