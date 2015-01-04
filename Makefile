@@ -5,13 +5,14 @@ Tmp=/tmp/$(USER)
 src/md/%.md : src/py/%.py
 	@awk -f etc/py2md.awk $< > $@
 	@echo  $@
-	
+
 %.html : src/md/%.md
 	pandoc -s -S --toc  \
 	    --highlight-style=pygments \
+            -M etc/style.css \
 	    --template=etc/templates/default.html \
 	    -A etc/footer.html  -o $@ $<
-	
+
 all : mds htmls
 
 mds  : $(shell bash etc/stems src/py py src/md md) 
